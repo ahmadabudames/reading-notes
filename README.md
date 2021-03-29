@@ -4,15 +4,14 @@
 
 | assignment | link |
 | --- | ----------- |
-| lab02 | [growth mindset](lab02.md) |
-| read01 | [the coders computer](read01.md) |
-| read02a | [learning markdown](read02a.md) |
-| read02b |[ git intro ](read02b.md)|
-| read03 | [structure web pages with html](read03.md) |
-| read04a | [Programming with JavaScript](read04a.md) |
-| read04a | [Programming with JavaScript](read04a.md) |
-| read05 | [operators and loops](read05.md) |
-| read06 | [color](read06.md) |
+| lab02 | [growth mindset](code102/lab02.md) |
+| read01 | [the coders computer](code102/read01.md) |
+| read02a | [learning markdown](code102/read02a.md) |
+| read02b |[ git intro ](code102/read02b.md)|
+| read03 | [structure web pages with html](code102/read03.md) |
+| read04a | [Programming with JavaScript](code102/read04a.md) |
+| read05 | [operators and loops](code102/read05.md) |
+| read06 | [color](code102/read06.md) |
 
 
 
@@ -20,8 +19,8 @@
 
 | assignment | link |
 | --- | ----------- |
-| read01| [Introductory HTML and JavaScript](https://ahmadabudames.github.io/reading-notes/code201/read01) |
-| read02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://ahmadabudames.github.io/reading-notes/code201/read02) |
+| read01| [Introductory HTML and JavaScript](code201/read01.md) |
+| read02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](code201/read02.md) |
 | read03| [](read03.md) |
 | read04 | [](read04.md) |
 | read05| [](read05.md) |
