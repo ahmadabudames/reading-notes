@@ -20,8 +20,8 @@
 
 | assignment | link |
 | --- | ----------- |
-| read01| [Introductory HTML and JavaScript](read01.md) |
-| read02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read02.md) |
+| read01| [Introductory HTML and JavaScript](https://ahmadabudames.github.io/reading-notes/code201/read01) |
+| read02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://ahmadabudames.github.io/reading-notes/code201/read02) |
 | read03| [](read03.md) |
 | read04 | [](read04.md) |
 | read05| [](read05.md) |
