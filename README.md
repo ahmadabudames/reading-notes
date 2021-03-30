@@ -22,7 +22,7 @@
 | read01| [Introductory HTML and JavaScript](code201/read01.md) |
 | read02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](code201/read02.md) |
 | read03| [HTML Lists, CSS Boxes, JS Control Flow](code201/read03.md) |
-| read04 | [](code201/read04.md) |
+| read04 | [HTML Links, CSS Layout, JS Functions](code201/read04.md) |
 | read05| [](code201/read05.md) |
 | read06 | [](code201/read06.md) |
 | read07| [](code201/read07.md) |
