@@ -25,7 +25,7 @@
 | read04 | [HTML Links, CSS Layout, JS Functions](code201/read04.md) |
 | read05| [HTML Images; CSS Color & Text](code201/read05.md) |
 | read06 | [JS Object Literals; The DOM](code201/read06.md) |
-| read07| [](code201/read07.md) |
+| read07| [tables and functions ](code201/read07.md) |
 | read08 | [](code201/read08.md) |
 | read09| [](code201/read09.md) |
 | read10| [](code201/read10.md) |
