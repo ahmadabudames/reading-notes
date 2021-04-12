@@ -30,7 +30,7 @@
 | read09| [Forms and Events](code201/read09.md) |
 | read10| [ JS Debugging](code201/read10.md) |
 | read11| [Assorted Topics](code201/read11.md) |
-| read12 | [](code201/read12.md) |
+| read12 | [Chart.js, Canvas](code201/read12.md) |
 | read13| [](code201/read13.md) |
 | read14a | [](code201/read14a.md) |
 | read14b| [](code201/read14b.md) |
