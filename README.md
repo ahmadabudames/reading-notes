@@ -44,9 +44,9 @@
 
 | assignment | link |
 | --- | ----------- |
-|class01| [](code301/class01.md) |
-|class02 | [](code301/class02.md) |
-|class03| [](code301/class03.md) |
+|class01| [ Introduction to React and Components](code301/class01.md) |
+|class02 | [State and Props](code301/class02.md) |
+|class03| [Passing Functions as Props](code301/class03.md) |
 |class04 | [](code301/class04.md) |
 |class05| [](code301/class05.md) |
 |class06 | [](code301/class06.md) |
