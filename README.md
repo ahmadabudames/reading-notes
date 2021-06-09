@@ -48,7 +48,7 @@
 |class02 | [State and Props](code301/class02.md) |
 |class03| [Passing Functions as Props](code301/class03.md) |
 |class04 | [React and Forms](code301/class04.md) |
-|class05| [](code301/class05.md) |
+|class05| [Putting it all together](code301/class05.md) |
 |class06 | [](code301/class06.md) |
 |class07| [ ](code301/class07.md) |
 |class08 | [](code301/class08.md) |
