@@ -51,7 +51,7 @@
 |class05| [Putting it all together](code301/class05.md) |
 |class06 | [NODE.JS](code301/class06.md) |
 |class07| [REST](code301/class07.md) |
-|class08 | [](code301/class08.md) |
+|class08 | [APIs](code301/class08.md) |
 |class09| [](code301/class09.md) |
 |class10| [](code301/class10.md) |
 |class11| [](code301/class11.md) |
