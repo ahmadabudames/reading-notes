@@ -57,7 +57,7 @@
 |class11| [Authentication](code301/class11.md) |
 |class12 | [Mongo and Mongoose](code301/class12.md) |
 |class13| [CRUD](code301/class13.md) |
-|class14 | [](code301/class14.md) |
+|class14 | [Diversity & Inclusion in the Tech Industry](code301/class14.md) |
 |class15| [](code301/class15.md) |
 
 
