@@ -68,7 +68,7 @@
 
 | assignment | link |
 | --- | ----------- |
-|class01| [ ](code401/read01.md) |
+|class01| [Topic](code401/read01.md) |
 |class02 | [](code401/read02.md) |
 |class03| [](code401/read03.md) |
 |class04 | [](code401/read04.md) |
