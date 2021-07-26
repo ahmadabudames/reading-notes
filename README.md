@@ -70,7 +70,7 @@
 | --- | ----------- |
 |class01| [Topic](code401/read01.md) |
 |class02 | [Testing and Modules](code401/read02.md) |
-|class03| [](code401/read03.md) |
+|class03| [ FileIO & Exceptions](code401/read03.md) |
 |class04 | [](code401/read04.md) |
 |class05| [](code401/read05.md) |
 |class06 | [](code401/read06.md) |
