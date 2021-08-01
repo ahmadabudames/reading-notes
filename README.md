@@ -74,7 +74,7 @@
 |class04 | [Topic](code401/read04.md) |
 |class05| [Linked Lists](code401/read05.md) |
 |class06 | [Game-of-Greed](code401/read06.md) |
-|class07| [](code401/read07.md) |
+|class07| [Game of Greed 2](code401/read07.md) |
 |class08 | [](code401/read08.md) |
 |class09| [](code401/read09.md) |
 |class10| [](code401/read10.md) |
