@@ -77,7 +77,7 @@
 |class07| [Game of Greed 2](code401/read07.md) |
 |class08 | [Game of Greed 3](code401/read08.md) |
 |class09| [Game of Greed 4](code401/read09.md) |
-|class10| [](code401/read10.md) |
+|class10| [Stacks and Queues](code401/read10.md) |
 |class11| [](code401/read11.md) |
 |class12 | [](code401/read12.md) |
 |class13| [](code401/read13.md) |
