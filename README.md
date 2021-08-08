@@ -79,7 +79,7 @@
 |class09| [Game of Greed 4](code401/read09.md) |
 |class10| [Stacks and Queues](code401/read10.md) |
 |class11| [Data Analysis](code401/read11.md) |
-|class12 | [](code401/read12.md) |
+|class12 | [Topic](code401/read12.md) |
 |class13| [](code401/read13.md) |
 |class14 | [](code401/read14.md) |
 |class15| [](code401/read15.md) |
