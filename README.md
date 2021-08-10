@@ -81,7 +81,7 @@
 |class11| [Data Analysis](code401/read11.md) |
 |class12 | [Topic](code401/read12.md) |
 |class13| [Linear Regressions](code401/read13.md) |
-|class14 | [](code401/read14.md) |
+|class14 | [Data Visualization](code401/read14.md) |
 |class15| [](code401/read15.md) |
 |class16| [ ](code401/read16.md) |
 |class17 | [](code401/read17.md) |
