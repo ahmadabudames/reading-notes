@@ -83,7 +83,7 @@
 |class13| [Linear Regressions](code401/read13.md) |
 |class14 | [Data Visualization](code401/read14.md) |
 |class15| [Trees](code401/read15.md) |
-|class16| [ ](code401/read16.md) |
+|class16| [Machine Learning Intro](code401/read16.md) |
 |class17 | [](code401/read17.md) |
 |class18| [](code401/read18.md) |
 |class19 | [](code401/read19.md) |
