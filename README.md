@@ -85,7 +85,7 @@
 |class15| [Trees](code401/read15.md) |
 |class16| [Machine Learning Intro](code401/read16.md) |
 |class17 | [Web Scraping](code401/read17.md) |
-|class18| [](code401/read18.md) |
+|class18| [Cryptography](code401/read18.md) |
 |class19 | [](code401/read19.md) |
 |class20| [](code401/read20.md) |
 |class21 | [](code401/read21.md) |
