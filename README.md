@@ -93,9 +93,9 @@
 |class23 | [](code401/read23.md) |
 |class24| [](code401/read24.md) |
 |class25| [](code401/read25.md) |
-|class26| [](code401/read26.md) |
-|class27 | [](code401/read27.md) |
-|class28| [](code401/read28.md) |
+|class26| [Intro in django](code401/read26.md) |
+|class27 | [Django Models](code401/read27.md) |
+|class28| [Django CRUD and Forms](code401/read28.md) |
 |class29 | [](code401/read29.md) |
 |class30| [](code401/read30.md) |
 |class31| [ ](code401/read31.md) |
