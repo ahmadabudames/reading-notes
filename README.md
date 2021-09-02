@@ -97,7 +97,7 @@
 |class27 | [Django Models](code401/read27.md) |
 |class28| [Django CRUD and Forms](code401/read28.md) |
 |class29 | [ Django Custom User](code401/read29.md) |
-|class30| [](code401/read30.md) |
+|class30| [Hash Tables](code401/read30.md) |
 |class31| [ ](code401/read31.md) |
 |class32 | [](code401/read32.md) |
 |class33| [](code401/read33.md) |
