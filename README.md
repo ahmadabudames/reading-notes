@@ -101,7 +101,7 @@
 |class31| [Django REST Framework & Docker](code401/read31.md) |
 |class32 | [ Permissions & Postgresql](code401/read32.md) |
 |class33| [ Authentication & Production Server](code401/read33.md)|
-|class34 | [](code401/read34.md) |
+|class34 | [API Deployment](code401/read34.md) |
 |class35| [](code401/read35.md) |
 |class36 | [](code401/read36.md) |
 |class37| [](code401/read37.md) |
