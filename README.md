@@ -100,7 +100,7 @@
 |class30| [Hash Tables](code401/read30.md) |
 |class31| [Django REST Framework & Docker](code401/read31.md) |
 |class32 | [ Permissions & Postgresql](code401/read32.md) |
-|class33| [](code401/read33.md) |
+|class33| [ Authentication & Production Server](code401/read33md)|
 |class34 | [](code401/read34.md) |
 |class35| [](code401/read35.md) |
 |class36 | [](code401/read36.md) |
