@@ -105,7 +105,7 @@
 |class35| [Graphs](code401/read35.md) |
 |class36 | [DSA Review](code401/read36.md) |
 |class37| [React 1](code401/read37.md) |
-|class38 | [](code401/read38.md) |
+|class38 | [React 2](code401/read38.md) |
 |class39| [](code401/read39.md) |
 |class40| [](code401/read40.md) |
 |class41| [](code401/read41.md) |
